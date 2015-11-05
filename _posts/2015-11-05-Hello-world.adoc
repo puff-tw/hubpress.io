@@ -1,5 +1,5 @@
 = Hello world
-:hp-tags: HubPress, Blog, Open Source,
+:hp-tags: HubPress, Blog, Open Source
 
 hubpress 初體驗
 
