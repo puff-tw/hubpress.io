@@ -4,3 +4,13 @@
 hubpress 初體驗
 
 http://puff-tw.github.io/hubpress.io/
+
+
+Host and Add Image
+
+video::KoaGU91qJv8[youtube]
+
+
+Update HubPress to New Version
+
+video::KCylB780zSM[youtube]
